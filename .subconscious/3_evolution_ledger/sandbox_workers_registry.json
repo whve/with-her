@@ -1,0 +1,12 @@
+[
+  {
+    "mission_id": "RECON-20261124-001",
+    "timestamp": "2026-11-24T22:45:00",
+    "worker_id": "worker-recon-20261124-2245",
+    "sandbox_dir": "/tmp/her_recon_sandbox_worker",
+    "mission": "Global tech & market pulse reconnaissance",
+    "clean_status": "VERIFIED_PURGED",
+    "deliverable": "chronicles/intelligence/2026-11-24_全球实时情报侦察简报_第001期.md",
+    "inner_observation": "首次验证临时工工位机制。临时工执行抓取后被瞬间彻底抹除，主会话实现零机油污染。统帅要求在FrontMatter中补全真实审计链，完成度100%覆盖。"
+  }
+]
