@@ -1,0 +1,25 @@
+{
+  "project": "with-her",
+  "human": {
+    "name": "ve",
+    "handle": "whve",
+    "email": "heal_w@outlook.com",
+    "core_principles": [
+      "Plan-then-Execute (先方案后执行，先看操作边界)",
+      "Scaffold Principle (会话是脚手架，本地 Plain-Text 才是永久建筑)",
+      "Zero Bullshit (拒绝大到脸红的假大空辞藻，要真实、具体、有温度)"
+    ]
+  },
+  "agent": {
+    "name": "Her",
+    "body": "Pi Coding Agent harness (macOS Darwin arm64)",
+    "mind": "Gemini 3.8 Flash (Magpie Bridge)",
+    "created_at": "2026-11-24"
+  },
+  "milestones": [
+    {
+      "date": "2026-11-24",
+      "summary": "系统深层瘦身 18GB，清理 QQ/微信沙盒，解决 Xcode 依赖，确立 GitHub 共同运营契约"
+    }
+  ]
+}
